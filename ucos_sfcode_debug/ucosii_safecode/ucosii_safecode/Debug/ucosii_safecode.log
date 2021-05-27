@@ -1,0 +1,5 @@
+﻿  test_case.c
+d:\workspace\ucosii\ucos\ucos_sfcode_debug\ucosii\test_case.c(77): warning C4101: “err”: 未引用的局部变量
+  test_mycase.c
+  正在生成代码...
+  ucosii_safecode.vcxproj -> D:\Workspace\ucosii\ucos\ucos_sfcode_debug\ucosii_safecode\Debug\ucosii_safecode.exe
